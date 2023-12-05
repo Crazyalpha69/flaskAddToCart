@@ -1,0 +1,15 @@
+{
+  "name": "shopping_site_flask",
+  "version": "1.0.0",
+  "description": "A simple E-commerce website using Flask.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.3.5"
+  }
+}
